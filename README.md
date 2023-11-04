@@ -16,7 +16,6 @@
 - :briefcase: My major **Software Engineering**
 - :house: Hometown **Rach Gia city, Kien Giang province, Viet Nam**
 - :earth_asia: Living now in **Ho Chi Minh City, Viet Nam**
-- :sweat_smile: Newbie in **Game developer** :penguin:
 - :monocle_face: Interested in **Coding, Gaming especially horror game**
 - :sunglasses: My dream: **Traveling around the world**
 - Making **Video game for youtube**
