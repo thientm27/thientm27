@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-## <img src="https://res.cloudinary.com/disqggvnt/image/upload/c_scale,w_248,h_248,dpr_2/c_fit/f_auto,q_auto/v1654785976/Phone-Animation.gif?_i=AA" width="50px" height="50px" > Connect with me
+## <img src="https://res.cloudinary.com/disqggvnt/image/upload/c_scale,w_248,h_248,dpr_2/c_fit/f_auto,q_auto/v1654785976/Phone-Animation.gif?_i=AA" width="50px" height="50px"> Connect with me
 
 <p align="center">
     <a href="https://linkedin.com/in/thientran-denk" target="blank"><img align="center"
@@ -38,7 +38,7 @@
     <a href="https://stackoverflow.com/users/20026352/trần-minh-thiện" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trần-minh-thiện" height="30" width="40" /></a>
 </p>
 
-## <img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50px" height="50px" > Languages and Tools
+## <img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50px" height="50px"> Languages and Tools
 
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -74,10 +74,9 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://agitech.com.vn/images/sql.png" alt="SqlServer" width="40" height="40" />
     </a>
-    
-   
-    
 </p>
+
+## <a href="https://github.com/thientm27/Game-Projects" target="_blank" rel="noreferrer"> Click to checkout my game projects </a>
 
 <div align="center">
     <img src="https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s" width="20px" height="20px" />Thanks for watching my profile! Have a nice day! <img src="https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s" width="20px" height="20px"/>
