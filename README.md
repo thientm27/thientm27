@@ -25,17 +25,31 @@
 ## <img src="https://res.cloudinary.com/disqggvnt/image/upload/c_scale,w_248,h_248,dpr_2/c_fit/f_auto,q_auto/v1654785976/Phone-Animation.gif?_i=AA" width="50px" height="50px"> Connect with me
 
 <p align="center">
-    <a href="https://linkedin.com/in/thientran-denk" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/thientran-denk" target="blank">
+            <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="thientran-denk" height="30" width="40" /></a>
-    <a href="https://fb.com/denktieu" target="blank"><img align="center"
+            alt="thientm27" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/denktieu" target="blank">
+            <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="denktieu" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/DenKhoTieu6969" target="blank"><img align="center"
+            alt="thientm27" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/DenKhoTieu6969" target="blank">
+            <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="denkhotieu" height="30" width="40" /></a>
-     <a href="https://instagram.com/denkhotieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denkhotieu" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/20026352/trần-minh-thiện" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trần-minh-thiện" height="30" width="40" /></a>
+            alt="thientm27" height="30" width="40" />
+    </a>
+     <a href="https://instagram.com/denkhotieu" target="blank">
+             <img align="center"
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+             alt="thientm27" height="30" width="40" />
+     </a>
+    <a href="https://stackoverflow.com/users/20026352/trần-minh-thiện" target="blank">
+            <img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
+            alt="thientm27" height="30" width="40" />
+    </a>
 </p>
 
 ## <img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50px" height="50px"> Languages and Tools
