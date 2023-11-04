@@ -19,6 +19,8 @@
 - :monocle_face: Interested in **Coding, Gaming especially horror game**
 - :sunglasses: My dream: **Traveling around the world**
 - Making **Video game for youtube**
+<br/>
+<br/>
 
 ## <img src="https://res.cloudinary.com/disqggvnt/image/upload/c_scale,w_248,h_248,dpr_2/c_fit/f_auto,q_auto/v1654785976/Phone-Animation.gif?_i=AA" width="50px" height="50px" > Connect with me
 
