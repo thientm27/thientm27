@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-## <img src="https://res.cloudinary.com/disqggvnt/image/upload/c_scale,w_248,h_248,dpr_2/c_fit/f_auto,q_auto/v1654785976/Phone-Animation.gif?_i=AA" width="50px" height="50px"> Connect with me
+## Connect with me
 
 <p align="center">
     <a href="https://linkedin.com/in/thientran-denk" target="blank">
@@ -52,7 +52,7 @@
     </a>
 </p>
 
-## <img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50px" height="50px"> Languages and Tools
+## Languages and Tools
 
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
