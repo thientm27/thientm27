@@ -6,7 +6,7 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/thientm27?style=social"> &nbsp;&nbsp;
 
 <hr/>
-<h3 align="center">Enjoy game, making gamesr</h3>
+<h3 align="center">Enjoy game, making games</h3>
 <hr/>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About me
