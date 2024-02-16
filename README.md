@@ -1,4 +1,4 @@
-<h1 align="left">Trần Minh Thiện Github profile</h1>
+<h1 align="left">Trần Minh Thiện - Mr.Denk</h1>
 <img src="https://komarev.com/ghpvc/?username=thientm27&label=Profile%20views&color=0e75b6&style=flat" alt="thientm27"
     style="margin-right: 1%;" />
 
