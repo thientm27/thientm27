@@ -92,6 +92,10 @@
 
 ## <a href="https://github.com/thientm27/Game-Projects" target="_blank" rel="noreferrer"> Click to checkout my game projects </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=thientm27)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="center">
     <img src="https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s" width="20px" height="20px" />Thanks for watching my profile! Have a nice day! <img src="https://media2.giphy.com/media/TLsA7ndG3TRgnFssUi/giphy.gif?cid=6c09b952g7htcq5jaw3txudizixenv0bpqxtj5xkvolw80bu&rid=giphy.gif&ct=s" width="20px" height="20px"/>
 </div>
+
+
