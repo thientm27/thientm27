@@ -1,12 +1,13 @@
 <h1 align="left">Trần Minh Thiện - Mr.Denk</h1>
-<img align="center" src="https://komarev.com/ghpvc/?username=thientm27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/thientm27?style=social"> &nbsp;&nbsp;
-<img align="center" alt="GitHub stars" src="https://img.shields.io/github/stars/thientm27?style=social"> &nbsp;&nbsp;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thientm27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/thientm27?style=social">
+  &nbsp;&nbsp;
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/thientm27?style=social">
+</p>
 
-<hr/>
-<h3 align="center">Life is too short for fear</h3>
-<hr/>
 
 ## 👨‍💻 About Me
 
@@ -28,9 +29,6 @@
     </a>
     <a href="https://fb.com/denktieu" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/DenKhoTieu6969" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
     </a>
     <a href="https://instagram.com/denkhotieu" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
